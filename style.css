@@ -1,0 +1,25 @@
+body {
+  background: #111111;
+  color: #facade;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+a, #fake {
+  color: #4499ff;
+}
+
+#fake {
+  text-decoration: underline;
+}
+
+.tired {
+  color: #ff3333;
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
