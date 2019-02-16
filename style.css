@@ -13,8 +13,9 @@ a, #fake {
   text-decoration: underline;
 }
 
-.tired {
-  color: #ff3333;
+#secret, #extra {
+  color: #f79;
+  visibility: hidden;
 }
 
 #container {

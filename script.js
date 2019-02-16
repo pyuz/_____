@@ -1,8 +1,8 @@
 'use strict'
 
-document.getElementById("fake").addEventListener("click", makesColor);
+document.getElementById("fake").addEventListener("click", revealSecret);
 
-//get off your ass
-function makesColor() {
-  document.getElementById("fake").style.color = "#ff3333";
+function revealSecret() {
+  document.getElementById("fake").style.color = "#ff7799";
+  document.getElementById("secret").style.visibility = "visible";
 }
