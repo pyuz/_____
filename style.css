@@ -7,9 +7,6 @@ body {
 
 a, #fake {
   color: #4499ff;
-}
-
-#fake {
   text-decoration: underline;
 }
 
